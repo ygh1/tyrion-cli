@@ -8,5 +8,8 @@
   },
   "repository": "git@github.com:ygh1/tyrion-cli.git",
   "author": "yanguanghao7@gmail.com",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^8.1.0"
+  }
 }
