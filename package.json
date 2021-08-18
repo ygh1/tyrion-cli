@@ -1,6 +1,6 @@
 {
   "name": "tyrion-cli",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "a cli of to quickly generate scaffold'",
   "main": "index.js",
   "bin": {
