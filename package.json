@@ -1,0 +1,9 @@
+{
+  "name": "tyrion-cli",
+  "version": "0.0.1",
+  "description": "a cli of to quickly generate scaffold'",
+  "main": "index.js",
+  "repository": "git@github.com:ygh1/tyrion-cli.git",
+  "author": "tyrion",
+  "license": "MIT"
+}
